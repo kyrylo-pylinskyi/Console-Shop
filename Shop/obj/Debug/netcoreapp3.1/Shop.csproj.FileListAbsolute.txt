@@ -1,0 +1,26 @@
+G:\CSharp projects\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+G:\CSharp projects\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+G:\CSharp projects\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+G:\CSharp projects\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+G:\CSharp projects\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+G:\CSharp projects\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+G:\CSharp projects\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+G:\CLEAN\STUDY\MySTUDY\C#\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
